@@ -1,4 +1,4 @@
-# Malstm
+# Sentence similarity
 Question pair similarity using Manhattan distance
 
 malstm.py
